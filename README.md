@@ -19,8 +19,8 @@ Currently, I am working on tensor-based models for ASD vs control classification
 
 ## Skills
 
-**Programming and data analysis:** Python, pandas, NumPy, scikit-learn, matplotlib, Jupyter, Power BI, SQL
-**Methods:** machine learning, logistic regression, cross-validation, ROC AUC, tensor decomposition
-**Biomedical data:** neuroimaging, fMRI, MRI, clinical data  
+- **Programming and data analysis:** Python, pandas, NumPy, scikit-learn, matplotlib, Jupyter, Power BI, SQL
+- **Methods:** machine learning, logistic regression, cross-validation, ROC AUC, tensor decomposition
+- **Biomedical data:** neuroimaging, fMRI, MRI, clinical data  
 
 
